@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-import "./App.css";
+// import "./App.css";
 
 import AuthPage from "./AuthPage.jsx";
 import ChatsPage from "./ChatsPage.jsx";
