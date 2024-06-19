@@ -1,5 +1,5 @@
 {
     "version":2,
-    "builds":[{"src":"./src/main.jsx"}],
+    "builds":[{"src":"./src/main.jsx", "use":"@vercel/react"}],
     "routes":[{"src":"/(.*)","dest":"/"}]
 }
