@@ -23,4 +23,3 @@ app.post("/authenticate", async (req, res) => {
 
 app.listen(3001);
 
-// id a66e731b-d299-4d29-913d-12190421dd8e
