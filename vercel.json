@@ -1,5 +1,6 @@
 {
-  "routes": [{ "src": "frontend/[^.]+", 
-  "dest": "/", 
-  "status": 200 }]
+  "routes": [{ 
+    "src": "frontend/[^.]+", 
+    "dest": "/", 
+    "status": 200 }]
 }
