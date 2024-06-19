@@ -1,6 +1,14 @@
 {
-  "routes": [{ 
-    "src": "frontend/[^.]+", 
-    "dest": "/", 
-    "status": 200 }]
+  "projects": [
+    {
+      "name": "frontend",
+      "path": "frontend",
+      "output": "frontend/build"
+    },
+    {
+      "name": "backend",
+      "path": "backend",
+      "output": "backend/build"
+    }
+  ]
 }
